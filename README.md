@@ -16,7 +16,7 @@ Aspiring analog and mixed-signal IC designer with hands-on experience in standar
 | Type       | Title                                                                   | Modified                                                    | 
 |------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
 | Project | [Standard Cell Library](https://github.com/nsrgz/stdcell-library) | ![](https://img.shields.io/github/last-commit/nsrgz/stdcell-library) |
-| Project | [EDA Characterization Tool](https://github.com/nsrgz/stdcell-tool) | ![](https://img.shields.io/github/last-commit/nsrgz/stdcell-tool) |
+| Project | [EDA Characterization Tool](https://github.com/nsrgz/stdcell-eda) | ![](https://img.shields.io/github/last-commit/nsrgz/stdcell-eda) |
 
 ### Embedded Systems
 
