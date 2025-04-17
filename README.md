@@ -2,26 +2,26 @@ Aspiring analog and mixed-signal IC designer with hands-on experience in standar
 
 ## Analog Mixed Signal IC Design
 
-| Type | Title | Status |
-| ---- | ----- | ----------- |
-| Coursework | [Design of Analog Integrated Circuits](https://github.com/nsrgz/daci25) | Ongoing |
-| Project | [3D MOS Plot](https://github.com/nsrgz/3d-mos-plot) | Ongoing | 
-| Project | [CS Design](https://github.com/nsrgz/sky130-cs) | Ongoing |
+| Type       | Title                                                                   | Modified                                                    | 
+|------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
+| Coursework | [Design of Analog Integrated Circuits](https://github.com/nsrgz/daci25) | ![](https://img.shields.io/github/last-commit/nsrgz/daci25) |
+| Project    | [3D MOS Plot](https://github.com/nsrgz/3d-mos-plot) | ![](https://img.shields.io/github/last-commit/nsrgz/3d-mos-plot) | 
+| Project    | [CS Design](https://github.com/nsrgz/sky130-cs) | ![](https://img.shields.io/github/last-commit/nsrgz/sky130-cs) |
 
 
 ## Complementary
 
 ### Microelectronics
 
-| Type | Title | Status |
-| ---- | ----- | ----------- |
-| Project | [Standard Cell Library](https://github.com/nsrgz/stdcell-library) | Finished |
-| Project | [EDA Characterization Tool](https://github.com/nsrgz/stdcell-tool) | Finished |
+| Type       | Title                                                                   | Modified                                                    | 
+|------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
+| Project | [Standard Cell Library](https://github.com/nsrgz/stdcell-library) | ![](https://img.shields.io/github/last-commit/nsrgz/stdcell-library) |
+| Project | [EDA Characterization Tool](https://github.com/nsrgz/stdcell-tool) | ![](https://img.shields.io/github/last-commit/nsrgz/stdcell-tool) |
 
 ### Embedded Systems
 
-| Type | Title | Status |
-| ---- | ----- | ----------- |
-| Project | [Breadboard Power Supply](https://github.com/breadboard-psu) | Finished |
-| Coursework | [C with Linux Specialization](https://github.com/nsrgz/c-linux-spec) | Ongoing |
+| Type       | Title                                                                   | Modified                                                    | 
+|------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
+| Project | [Breadboard Power Supply](https://github.com/nsrgzs/breadboard-psu) | ![](https://img.shields.io/github/last-commit/nsrgz/breadboard-psu) |
+| Coursework | [C with Linux Specialization](https://github.com/nsrgz/c-linux-spec) | ![](https://img.shields.io/github/last-commit/nsrgz/c-linux-spec) |
 | Project | [Bare-Metal STM32F103 UART Driver with Command Parser](https://github.com/nsrgz/stm32-f103c8-uart-command-parser) | Ongoing |
