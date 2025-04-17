@@ -2,7 +2,7 @@ Aspiring analog and mixed-signal IC designer with hands-on experience in standar
 
 ## Analog Mixed Signal IC Design
 
-| Type       | Title                                                                   | Modified                                                    | 
+| Type       | Title                                                                   | Modified                                                    |
 |------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
 | Coursework | [Design of Analog Integrated Circuits](https://github.com/nsrgz/daci25) | ![](https://img.shields.io/github/last-commit/nsrgz/daci25) |
 | Project    | [3D MOS Plot](https://github.com/nsrgz/3d-mos-plot) | ![](https://img.shields.io/github/last-commit/nsrgz/3d-mos-plot) | 
@@ -22,6 +22,6 @@ Aspiring analog and mixed-signal IC designer with hands-on experience in standar
 
 | Type       | Title                                                                   | Modified                                                    | 
 |------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
-| Project | [Breadboard Power Supply](https://github.com/nsrgzs/breadboard-psu) | ![](https://img.shields.io/github/last-commit/nsrgz/breadboard-psu) |
+| Project | [Breadboard Power Supply](https://github.com/nsrgz/breadboard-psu) | ![](https://img.shields.io/github/last-commit/nsrgz/breadboard-psu) |
 | Coursework | [C with Linux Specialization](https://github.com/nsrgz/c-linux-spec) | ![](https://img.shields.io/github/last-commit/nsrgz/c-linux-spec) |
-| Project | [Bare-Metal STM32F103 UART Driver with Command Parser](https://github.com/nsrgz/stm32-f103c8-uart-command-parser) | Ongoing |
+| Project | [Bare-Metal STM32F103 UART Driver with Command Parser](https://github.com/nsrgz/stm32-f103c8-uart-command-parser) | ![](https://img.shields.io/github/last-commit/nsrgz/stm32-f103c8-uart-command-parser) | 
