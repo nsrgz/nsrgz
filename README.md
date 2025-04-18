@@ -1,4 +1,3 @@
-.
 ### **Who am I?**
 - 🎯 I'm an electronic engineer whose goal is to become a **top analog and mixed-signal IC designer**.
 - 📝 My learning journey is being documented in **my substack newsletter**, **[Mainly Analog](https://mainlyanalog.substack.com/)** , check it out!
