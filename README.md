@@ -1,4 +1,4 @@
-
+.
 ### **Who am I?**
 - 🎯 I'm an electronic engineer whose goal is to become a **top analog and mixed-signal IC designer**.
 - 📝 My learning journey is being documented in **my substack newsletter**, **[Mainly Analog](https://mainlyanalog.substack.com/)** , check it out!
@@ -14,9 +14,8 @@ I have hands-on experience in standard cell library development using the SKY130
 | Type       | Title                                                                   | Modified                                                    |
 |------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
 | Coursework | [Design of Analog Integrated Circuits](https://github.com/nsrgz/daci25) | ![](https://img.shields.io/github/last-commit/nsrgz/daci25) |
-| Project    | [3D MOS Plot](https://github.com/nsrgz/3d-mos-plot) | ![](https://img.shields.io/github/last-commit/nsrgz/3d-mos-plot) | 
 | Project    | [CS Design](https://github.com/nsrgz/sky130-cs) | ![](https://img.shields.io/github/last-commit/nsrgz/sky130-cs) |
-
+<!-- | Project    | [3D MOS Plot](https://github.com/nsrgz/3d-mos-plot) | ![](https://img.shields.io/github/last-commit/nsrgz/3d-mos-plot) |  -->
 
 ## Complementary
 
