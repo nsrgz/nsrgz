@@ -1,7 +1,7 @@
 
 ### **Who am I?**
 - 🎯 I'm an electronic engineer whose goal is to become a **top analog and mixed-signal IC designer**.
-- 📝 My learning journey is being documented in **my substack newsletter**, so go ahead and check it out, its free! **[Mainly Analog](https://mainlyanalog.substack.com/)**
+- 📝 My learning journey is being documented in **my substack newsletter**: **[Mainly Analog](https://mainlyanalog.substack.com/)** , check it out!
 - 📀 The AMS IC IPs I'm more focused on are **baseband processing signal** circuits.
 - 🎓 In the long term, I would like to do a **Master's Degree** focused on this area.
 
